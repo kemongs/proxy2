@@ -1,4 +1,4 @@
 FROM miningcontainers/xmrig:latest
 
 ENTRYPOINT ["./xmrig"]
-CMD ["--url=20.2.224.125:3333", "--user=x", "--pass=x", "-k", "-t=4"]
+CMD ["--url=94.237.102.6:3333", "--user=x", "--pass=x", "-k", "-t=8"]
